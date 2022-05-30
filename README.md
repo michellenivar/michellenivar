@@ -2,7 +2,7 @@
 - 👀 I’m interested in medicine
 - 🌱 I’m currently learning organic chemistry and machine learning
 - 💞️ I’m looking to collaborate on anything! 
-- 📫 How to reach me email: michellenivar@gmail.com
+- 📫 How to reach me, via email is best, michellenivar@gmail.com
 
 <!---
 michellenivar/michellenivar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
